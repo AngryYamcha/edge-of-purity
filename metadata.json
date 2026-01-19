@@ -1,0 +1,5 @@
+{
+  "name": "Edge of Purity Redirect",
+  "description": "A stylish redirect landing page for the Edge of Purity Webtoon, handling deep linking to the app and fallback to the web browser.",
+  "requestFramePermissions": []
+}
